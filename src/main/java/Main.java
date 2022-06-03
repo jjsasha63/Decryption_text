@@ -40,6 +40,8 @@ class Main{
    /**
     * > We keep dividing the number by the smallest possible prime factor until it is no longer divisible by that factor
     *
+    * Find the factors of the prime number
+    *
     * @param number The number to find the prime factors of.
     * @return A list of prime factors of the number.
     */
